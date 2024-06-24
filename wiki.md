@@ -1,5 +1,5 @@
 # Livestock Management
-![](Workspace/img/img/Cover.jpg)
+![](Workspace/img/Cover.jpg)
 
 This is the website about the livestock management system. 
 
